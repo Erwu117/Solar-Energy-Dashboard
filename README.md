@@ -32,15 +32,14 @@ conda install conda-forge::geopandas
 conda install conda-forge::pandas
 conda install conda-forge::geopy
 ```
+
+## Run the included batch script first
+Double click the retrive_dataset_if_using_windows.bat to download the corresponding dataset.
+
 ## Run Dashboard Application
 To run the dashboard application, the following command must be executed:
 ```bash
 python app.py
 ```
 
-## Group Members
-- Belandres, Rocelle
-- Bonto, Erwin
-- Co, Winona
-- Hauschild, Melanie
-- La Rosa, Karen
+
